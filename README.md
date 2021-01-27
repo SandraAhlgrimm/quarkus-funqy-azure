@@ -1,3 +1,5 @@
+Build with code.quarkus.io
+
 Deploy with  
 `mvn clean install azure-functions:deploy`
 

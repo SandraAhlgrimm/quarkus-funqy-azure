@@ -1,4 +1,4 @@
-package dasniko.quarkus;
+package test.quarkus;
 
 import io.quarkus.funqy.Funq;
 
